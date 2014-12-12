@@ -6,6 +6,9 @@ The result you get is a single file with your Derby app that can be
 run offline and hosted on a static website hosting providers like
 [GitHub Pages](https://pages.github.com/)
 
+**Disclaimer!** Since Derby-standalone is a client-only version of Derby
+you won't be able to write anything into public collections, only 
+private collections can be used such as `_page`, `_session`, etc.
 
 ## Usage
 
