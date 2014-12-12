@@ -1,0 +1,31 @@
+{
+  "name": "derby-standalone-builder",
+  "description": "Build Derby-standalone app from regular Derby.js app",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmapper/derby-standalone-builder.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "browserify": "^6.3.2",
+    "coffeeify": "~1.0.0",
+    "connect": "^3.3.3",
+    "derby": "*",
+    "serve-static": "^1.7.1",
+    "racer-bundle": "0.1.1",
+    "yamlify": "^0.1.2"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "derby",
+    "derbyjs",
+    "derby-standalone"
+  ],
+  "author": "Pavel Zhukov",
+  "license": "MIT"
+}
