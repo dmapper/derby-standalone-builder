@@ -9,7 +9,7 @@ run offline and hosted on a static website hosting providers like
 
 ## Usage
 
-## builder.build(app, publicPath, outPath, initBundle, cb)
+### builder.build(app, publicPath, outPath, initBundle, cb)
 
 `outPath` by default is `publicPath + '/derby/index.html'`
 
