@@ -16,7 +16,7 @@ run offline and hosted on a static website hosting providers like
 ### Simplest example:
 
 ```js
-# build.js
+// build.js
 
 var app = require('./src/app');
 var builder = require('derby-standalone-builder')
