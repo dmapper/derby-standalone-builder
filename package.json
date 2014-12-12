@@ -11,8 +11,7 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "browserify": "^6.3.2",
-    "coffeeify": "~1.0.0",
+    "coffeeify": "~0.6.0",
     "connect": "^3.3.3",
     "derby": "*",
     "serve-static": "^1.7.1",
