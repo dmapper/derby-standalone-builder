@@ -2,8 +2,8 @@
 
 > Build **Derby-standalone** app from regular **Derby.js** app
 
-The result you get is a single file with your Derby app that can be 
-run offline and hosted on a static website hosting providers like
+The result you get is 2 files (`.html` and `.js`) with your Derby app
+that can be run offline and hosted on a static website hosting providers like
 [GitHub Pages](https://pages.github.com/)
 
 **Disclaimer!** Since Derby-standalone is a client-only version of Derby
@@ -12,9 +12,9 @@ private collections can be used such as `_page`, `_session`, etc.
 
 ## Usage
 
-### builder.build(app, publicPath, outPath, initBundle, cb)
+### builder.build(app, publicPath, buildPath, initBundle, cb)
 
-`outPath` by default is `publicPath + '/derby/index.html'`
+`buildPath` by default is `publicPath + '/derby/'`
 
 ### Simplest example:
 
