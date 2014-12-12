@@ -1,7 +1,7 @@
 {
   "name": "derby-standalone-builder",
   "description": "Build Derby-standalone app from regular Derby.js app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/dmapper/derby-standalone-builder.git"
@@ -19,8 +19,7 @@
     "racer-bundle": "0.1.1",
     "yamlify": "^0.1.2"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "derby",
     "derbyjs",
