@@ -3,7 +3,7 @@
 > Build **Derby-standalone** app from regular **Derby.js** app
 
 The result you get is 2 files (`.html` and `.js`) with your Derby app
-that can be run offline and hosted on a static website hosting providers like
+that can be run offline (i.e. as a desktop app on [node-webkit](https://github.com/rogerwang/node-webkit)) and hosted on a static website hosting providers like
 [GitHub Pages](https://pages.github.com/)
 
 **Disclaimer!** Since Derby-standalone is a client-only version of Derby
