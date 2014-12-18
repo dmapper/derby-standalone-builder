@@ -1,7 +1,7 @@
 {
   "name": "derby-standalone-builder",
   "description": "Build Derby-standalone app from regular Derby.js app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/dmapper/derby-standalone-builder.git"
